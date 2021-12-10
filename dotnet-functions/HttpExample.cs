@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.Logging;
 using Newtonsoft.Json;
 
-namespace docker_functions
+namespace dotnet_functions
 {
     public static class HttpExample
     {
